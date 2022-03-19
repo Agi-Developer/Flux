@@ -3,7 +3,7 @@
   "version": "0.0.14",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
